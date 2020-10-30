@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I am a FullStack Developer/Architect, Consultant and a blogger
-You can check my projects on Nuget and Npm too. just check the my pinned projects down here.
-or just check the links:
+, you can also check my projects on Nuget and Npm from the links below:
 
 https://www.nuget.org/packages/AsterNET.NetStandard/
 
